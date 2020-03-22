@@ -1,6 +1,9 @@
 # MNIST CNN CLASSIFICATION
+
+## MNIST Sample
+![image](https://github.com/6vvvvvv/Neuroscience/blob/master/images/MnistExamples.png)
  
- ## Step1:Import library
+## Step1:Import library
 ![image](https://github.com/6vvvvvv/Neuroscience/blob/master/images/import%20library.jpg)
 
 ## Step2:Sample-Pre-Treatment
@@ -34,4 +37,4 @@
 ![image](https://github.com/6vvvvvv/Neuroscience/blob/master/images/evaluation%20and%20print.jpg)
 
 ## Result
-![image](https://github.com/6vvvvvv/Neuroscience/blob/master/images/evaluation%20and%20print.jpg)
+![image](https://github.com/6vvvvvv/Neuroscience/blob/master/images/result.PNG)
