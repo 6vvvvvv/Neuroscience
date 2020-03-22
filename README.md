@@ -3,7 +3,7 @@
 ## MNIST Sample
 ![image](https://github.com/6vvvvvv/Neuroscience/blob/master/images/MnistExamples.png)
  
-## Step1:Import library
+## Step1:Import Library
 ![image](https://github.com/6vvvvvv/Neuroscience/blob/master/images/import%20library.jpg)
 
 ## Step2:Sample-Pre-Treatment
